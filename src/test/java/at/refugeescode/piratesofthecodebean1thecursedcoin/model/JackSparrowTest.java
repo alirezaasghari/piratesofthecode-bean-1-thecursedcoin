@@ -20,4 +20,5 @@ class JackSparrowTest {
         String message = jackSparrow.findCoursedCoin();
         assertEquals("I got it!", message);
     }
+    
 }
