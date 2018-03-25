@@ -1,4 +1,4 @@
-package at.refugeescode.piratesofthecodebean1thecursedcoin.model;
+package at.refugeescode.piratesofthecodebean1thecursedcoin.thecursedcoin;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -20,5 +20,5 @@ class JackSparrowTest {
         String message = jackSparrow.findCoursedCoin();
         assertEquals("I got it!", message);
     }
-    
+
 }

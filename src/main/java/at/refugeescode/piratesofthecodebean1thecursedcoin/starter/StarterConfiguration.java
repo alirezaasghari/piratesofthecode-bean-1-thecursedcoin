@@ -1,6 +1,6 @@
-package at.refugeescode.piratesofthecodebean1thecursedcoin.Starter;
+package at.refugeescode.piratesofthecodebean1thecursedcoin.starter;
 
-import at.refugeescode.piratesofthecodebean1thecursedcoin.model.JackSparrow;
+import at.refugeescode.piratesofthecodebean1thecursedcoin.thecursedcoin.JackSparrow;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
